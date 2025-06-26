@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(255, 255, 255);
+  background-color: rgba(255, 0, 0, 0.788);
+  padding: 20px;
+  margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+div {
+  color: aliceblue;
+  background-color: rgb(43, 43, 43);
+  margin: 20px;
+  padding: 20px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+html {
+  background-color: rgba(34, 34, 34, 0.767);
+}
+.red {
+  background-color: rgba(31, 31, 31, 0.733);
+  margin: 20px;
+  padding: 20px;
+  color: aliceblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
